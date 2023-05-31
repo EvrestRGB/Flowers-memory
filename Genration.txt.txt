@@ -1,0 +1,11 @@
+Dandelions can be found in all biomes except deserts and snow biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks.
+Poppies can be found in all biomes except deserts and snow biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks.
+Blue Orchids can only be found in swamp biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks.
+Alliums can only be found in flower forest and mountain meadow biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks.
+Azure Bluets can be found in plains, flower forest, and mountain meadow biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks.
+Tulips can be found in plains, flower forest, and mountain meadow biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks. There are 16 different types of tulips, each with its own unique color.
+Oxeye Daisies can be found in flower forest biomes. They have a chance to generate naturally in clusters of 2-4 on dirt and grass blocks.
+Wither Roses can only be found in Nether Fortresses. They cannot be generated naturally, but they can be crafted from 4 Wither Skeleton Skulls.
+Flowers can also be generated when bone meal is used on a grass block. The type of flower that generates depends on the biome and the X/Z coordinates. For example, bone meal used on a grass block in a plains biome will have a chance to generate a dandelion, poppy, or tulip. Bone meal used on a grass block in a swamp biome will have a chance to generate a blue orchid.
+
+Flowers can be used for a variety of purposes, including decoration, crafting dyes, and attracting bees.
